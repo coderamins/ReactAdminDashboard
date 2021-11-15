@@ -1,0 +1,14 @@
+F:\developing\reactapp\learn-redux\application\bin\Debug\netstandard2.0\Application.deps.json
+F:\developing\reactapp\learn-redux\application\bin\Debug\netstandard2.0\Application.dll
+F:\developing\reactapp\learn-redux\application\bin\Debug\netstandard2.0\Application.pdb
+F:\developing\reactapp\learn-redux\application\bin\Debug\netstandard2.0\Domain.dll
+F:\developing\reactapp\learn-redux\application\bin\Debug\netstandard2.0\Persistence.dll
+F:\developing\reactapp\learn-redux\application\bin\Debug\netstandard2.0\Domain.pdb
+F:\developing\reactapp\learn-redux\application\bin\Debug\netstandard2.0\Persistence.pdb
+F:\developing\reactapp\learn-redux\application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+F:\developing\reactapp\learn-redux\application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+F:\developing\reactapp\learn-redux\application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+F:\developing\reactapp\learn-redux\application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+F:\developing\reactapp\learn-redux\application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+F:\developing\reactapp\learn-redux\application\obj\Debug\netstandard2.0\Application.dll
+F:\developing\reactapp\learn-redux\application\obj\Debug\netstandard2.0\Application.pdb

@@ -1,0 +1,12 @@
+F:\developing\reactapp\learn-redux\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+F:\developing\reactapp\learn-redux\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+F:\developing\reactapp\learn-redux\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+F:\developing\reactapp\learn-redux\Persistence\bin\Debug\netstandard2.0\Domain.dll
+F:\developing\reactapp\learn-redux\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+F:\developing\reactapp\learn-redux\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+F:\developing\reactapp\learn-redux\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+F:\developing\reactapp\learn-redux\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+F:\developing\reactapp\learn-redux\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+F:\developing\reactapp\learn-redux\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+F:\developing\reactapp\learn-redux\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+F:\developing\reactapp\learn-redux\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

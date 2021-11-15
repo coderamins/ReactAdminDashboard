@@ -1,0 +1,9 @@
+F:\developing\reactapp\learn-redux\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+F:\developing\reactapp\learn-redux\Domain\bin\Debug\netstandard2.0\Domain.dll
+F:\developing\reactapp\learn-redux\Domain\bin\Debug\netstandard2.0\Domain.pdb
+F:\developing\reactapp\learn-redux\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+F:\developing\reactapp\learn-redux\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+F:\developing\reactapp\learn-redux\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+F:\developing\reactapp\learn-redux\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+F:\developing\reactapp\learn-redux\Domain\obj\Debug\netstandard2.0\Domain.dll
+F:\developing\reactapp\learn-redux\Domain\obj\Debug\netstandard2.0\Domain.pdb

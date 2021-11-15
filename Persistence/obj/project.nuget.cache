@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzft6J9bvbYWrs9vEKZ4QkG6BzcRMTglUudlEQfg0Immp5LFqvsU6Xf2PmvZf/INnv6EklrwQbKckLwz7ehtzA==",
+  "success": true,
+  "projectFilePath": "F:\\developing\\reactapp\\learn-redux\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
